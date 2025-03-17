@@ -1,6 +1,6 @@
 # Code Tester
 
-[ChatBot Live Demo](code-tester-nine.vercel.app)
+[ChatTester Live Demo](code-tester-nine.vercel.app)
 
 
 ## Project Objective
